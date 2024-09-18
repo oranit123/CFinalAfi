@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\orani\OneDrive\מסמכים\רופין\הכנה למהט\שנה ב\FinalWebApi\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-09-17T21:46:31.0624693Z;True|2024-09-17T20:18:19.5866292+03:00;True|2024-09-17T19:49:32.6877438+03:00;True|2024-09-17T18:02:19.3764510+03:00;True|2024-09-17T17:55:17.6155955+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
